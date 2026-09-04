@@ -1,3 +1,5 @@
 name = input('What\'s your name? ')
+last_name = input('What\'s your last name? ')
 print(f'Hello {name}! ')
+print(f'Hello {last_name}')
 print("Welcome to my first Git project!")
